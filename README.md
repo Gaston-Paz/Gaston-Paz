@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hola soy Gas 👋 !
 
-<!--
-**Gaston-Paz/Gaston-Paz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👷 Trabajo en Practia Global (Argentina)
+- 👨‍🎓 Estudié "Tecnicatura Universitaria en Programación" en UTN-FRGP
+- ☎ Me podés contactar a través de: 
+    * [E-mail](mailto:gaspaz12@gmail.com) 
+    * [Linkedin](https://www.linkedin.com/in/gast%C3%B3n-paz-8aa894110/)
+- 💻 Utilizo o utilicé las siguientes tecnologías:
+   ### Web
+   * HTML
+   * CSS
+   ### Lenguajes de programación
+   * JavaScript
+   * TypeScript
+   * C#
+   * Java
 
-Here are some ideas to get you started:
+   ### Frameworks o librerias
+   * Angular
+   * .NET
+   * .NET Core
+   * .NET Framework
+   * Spring-boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### Librerias de componentes
+   * Boostrap
+   * Angular Material
+
+   ### Base de datos
+   * SQL Server
+   * MySql
+
