@@ -5,7 +5,7 @@
 - ☎ Me podés contactar a través de: 
     * [E-mail](mailto:gaspaz12@gmail.com) 
     * [Linkedin](https://www.linkedin.com/in/gast%C3%B3n-paz-8aa894110/)
-- 💻 Utilizo o utilicé las siguientes tecnologías:
+- 💻 Utilizo las siguientes tecnologías:
    ### Web
    * HTML
    * CSS
