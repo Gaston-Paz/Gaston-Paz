@@ -21,6 +21,7 @@
    * .NET Core
    * .NET Framework
    * Spring-boot
+   * Node
 
    ### Librerias de componentes
    * Boostrap
@@ -29,4 +30,5 @@
    ### Base de datos
    * SQL Server
    * MySql
+   * Mongo
 
